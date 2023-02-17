@@ -1,6 +1,6 @@
-# Project Name
+# Picasso Painting
 
-> One paragraph statement about the project.
+> Picasso painting webpage built using SVG icons and CSS positioning
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,13 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html
+- div
+- i
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://12-fcc-picasso-painting.netlify.app)
 
 ### Development (Running locally)
 
