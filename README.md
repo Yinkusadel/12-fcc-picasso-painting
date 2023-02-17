@@ -11,6 +11,7 @@ Additional description of the project and its features.
 - html
 - div
 - i
+- CSS
 
 ## Live Demo
 
