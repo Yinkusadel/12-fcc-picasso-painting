@@ -8,10 +8,20 @@ Additional description of the project and its features.
 
 ## Built With
 
-- html
-- div
-- i
-- CSS
+- ### HTML5 elements
+  - **Block element**
+    `div`
+- **Inline element**
+  `i`
+- ### CSS properties
+  - CSS positioning `absolute`
+  - CSS background for page aesthetic using `background-color`
+  - CSS selectors `class selector` `id selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 

@@ -113,8 +113,7 @@ body {
 
 .fa-music {
   display: inline-block;
-  margin-top: 8%;
-  margin-left: 13%;
+  margin: 8% 0 0 13%;
 }
 
 .blue {
@@ -208,8 +207,7 @@ body {
 
 .fa-bars {
   display: block;
-  margin-top: 30%;
-  margin-left: 40%;
+  margin: 30% 0 0 40%;
 }
 
 #guitar-neck {
