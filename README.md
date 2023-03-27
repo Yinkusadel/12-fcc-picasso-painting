@@ -4,7 +4,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
+### This PR adds a Picasso painting webpage focused on the use of some intermediate CSS techniques ,SVG icons, CSS positioning, and other CSS properties.
 
 ## Built With
 
