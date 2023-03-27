@@ -4,7 +4,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-### This PR adds a Picasso painting webpage focused on the use of some intermediate CSS techniques ,SVG icons, CSS positioning, and other CSS properties.
+### In this project, you'll learn how to use some intermediate CSS techniques by coding your own Picasso painting webpage. You'll learn about SVG icons, CSS positioning, and review other CSS skills.
 
 ## Built With
 
